@@ -3,7 +3,7 @@ Python Script Writing
 
 
 -  Be carefull about path
--  if file name is not pos script not work
+-  if file name has't word 'pos', script will not work
 
 
 
