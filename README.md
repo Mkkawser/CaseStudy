@@ -2,10 +2,12 @@
 Python Script Writing
 
 
+
+
 -  Be carefull about path
 -  if file name has't word 'pos', script will not work
 
-
+``Download git as zip file, unzip , goto current working directory then run PythonScript.py ``
 
 formatted_Pos_10010.png.json
 ```
