@@ -1,0 +1,71 @@
+{
+    "dataset_name": [
+        "pos_0.png.json",
+        "pos_10010.png.json"
+    ],
+    "image_link": "",
+    "annotation_type": "image",
+    "annotation_objects": {
+        "car": {
+            "presence": 2,
+            "bbox": [
+                [
+                    396,
+                    3,
+                    773,
+                    314
+                ],
+                [
+                    770,
+                    0,
+                    882,
+                    306
+                ]
+            ]
+        },
+        "number": {
+            "presence": 1,
+            "bbox": [
+                [
+                    535,
+                    158,
+                    622,
+                    213
+                ]
+            ]
+        }
+    },
+    "annotation_attributes": {
+        "car": {
+            "Type": [
+                "SUV",
+                "Mercedes-Benz"
+            ],
+            "Pose": [
+                "Rear",
+                "SUV"
+            ],
+            "Model": [
+                "UN",
+                "Rear"
+            ],
+            "Make": [
+                "Lexus",
+                "UN"
+            ],
+            "Color": [
+                "Silver",
+                "Silver"
+            ]
+        },
+        "number": {
+            "Difficulty_Score": [
+                "0"
+            ],
+            "Value": [
+                "CA, 7LVS119"
+            ],
+            "Occlusion": 0
+        }
+    }
+}
